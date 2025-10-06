@@ -4,7 +4,7 @@ A simple Java Maven project that displays "Hello World" on the console.
 
 ## Prerequisites
 
-- Java 17 or higher
+- Java 25 or higher
 - Maven 3.6 or higher
 
 ## Project Structure
