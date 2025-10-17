@@ -1,4 +1,4 @@
-package de.bigg.uht.menu;
+package de.telekom.practise.menu;
 
 public class MenuItem {
     String id;

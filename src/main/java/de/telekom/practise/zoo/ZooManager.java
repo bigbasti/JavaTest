@@ -1,6 +1,6 @@
-package de.bigg.uht.zoo;
+package de.telekom.practise.zoo;
 
-import de.bigg.uht.zoo.animals.Animal;
+import de.telekom.practise.zoo.animals.Animal;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
-package de.bigg.uht.menu;
+package de.telekom.practise.menu;
 
-import de.bigg.uht.zoo.animals.Animal;
-import de.bigg.uht.zoo.ZooManager;
+import de.telekom.practise.zoo.animals.Animal;
+import de.telekom.practise.zoo.ZooManager;
 
 public class ShowAllAnimalsMenu extends SubMenu {
 

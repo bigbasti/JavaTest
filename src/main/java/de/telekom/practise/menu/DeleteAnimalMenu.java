@@ -1,6 +1,6 @@
-package de.bigg.uht.menu;
+package de.telekom.practise.menu;
 
-import de.bigg.uht.zoo.ZooManager;
+import de.telekom.practise.zoo.ZooManager;
 
 import java.util.Scanner;
 

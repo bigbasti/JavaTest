@@ -1,4 +1,4 @@
-package de.bigg.uht.zoo.animals;
+package de.telekom.practise.zoo.animals;
 
 public class Animal {
     int id;
